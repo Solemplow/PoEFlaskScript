@@ -9,10 +9,10 @@
 Numpad1::
 {
 	;Initialize random delays between 57 and 114 ms (arbitrary values, may be changed)
-	random, delay2, 57, 114
-	random, delay3, 570, 800
-	random, delay4, 57, 114
-	random, delay5, 57, 114
+	random, delay2, 55, 114
+	random, delay3, 54, 107
+	random, delay4, 56, 105
+	random, delay5, 53, 111
 
 	send, 1 ;simulates the keypress of the 1 button. If you use another button, change it!
 
