@@ -10,7 +10,7 @@ XButton1::
 {
 	;Initialize random delays between 57 and 114 ms (arbitrary values, may be changed)
 	random, delay2, 57, 114
-	random, delay3, 5700, 11400
+	random, delay3, 570, 800
 	random, delay4, 57, 114
 	random, delay5, 57, 114
 
